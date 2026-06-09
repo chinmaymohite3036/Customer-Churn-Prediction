@@ -1,0 +1,4 @@
+Model,F1 Score
+Logistic Regression,0.7328403686427459
+Random Forest,0.7023015317198654
+Decision Tree,0.6611722163167361
